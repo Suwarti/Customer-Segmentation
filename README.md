@@ -65,8 +65,29 @@ https://archive.ics.uci.edu/ml/datasets/Online+Retail
 - There is more than 90% of 'United Kingdom' customers, therefore we will restrict the data to only United Kingdom customers.
 
 # Exploratory Data Analysis
-- How many product sold every month?
 
+- How many product sold every month?
+![count 1](https://user-images.githubusercontent.com/75175081/127734116-ed109eb3-686d-435d-96fd-d29255377ea6.png)
+Product sold in November has highest quantity that has around 13,41% product sold from all transaction along 1 year. Therefore the business team can increase sales in this month such as promoting new products to customers in this month.
+
+- How much customer spend their money every month?
+![revenue 1](https://user-images.githubusercontent.com/75175081/127734242-42991f19-1ef5-4af5-b623-fdaf7c6cc122.png)
+Revenue in November has highest amount that has  13,41% revenue from total revenue along 1 year. Therefore the business team can replicate the success of sales strategies in November to be implemented in other months
+
+# RFM Analysis
+
+- Recency Frequency Monetary (RFM)
+- RFM analysis allows you to segment customers by the frequency and value of purchases and identify those customers who spend the most money.
+- Recency — how long it’s been since a customer bought something from us.
+- Frequency — how often a customer buys from us.
+- Monetary value — the total value of purchases a customer has made.
+
+# Modeling Data: RFM Quantiles
+
+- Now we split the metrics into segments using quantiles.
+- We will assign a score from 1 to 4 to each Recency, Frequency and Monetary respectively.
+- 1 is the highest value, and 4 is the lowest value.
+- A final RFM score (Overall Value) is calculated simply by combining individual RFM score numbers.
 
 
 
