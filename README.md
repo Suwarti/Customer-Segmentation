@@ -113,6 +113,7 @@ K-Means 4 clusters has lowest Davies Bouldin Score than other cluster. Therefore
 - "Cluster 1" has 20% customers. It can be interpreted as “Almost Lost". They purchase recently (R=2). However they do not purchase frequently and do not spent a lot. 
 - "Cluster 2“ has 30% customers. It can be interpreted as "Lost Cheap Customers". Their last purchase is long ago (R=4), purchased very few (F=4) and spent little (M=4).
 - "Cluster 3“has 21% customers. It belongs to the "Best Customers" segment which we saw earlier as they purchase recently (R=1), frequent buyers (F=1), and spent the most (M=1).
+![kmeans 2](https://user-images.githubusercontent.com/75175081/127737861-0f62e50f-359b-4a74-9aa1-b59198d68570.png)
 
 
 
