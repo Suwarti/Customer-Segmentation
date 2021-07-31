@@ -115,12 +115,8 @@ K-Means 4 clusters has lowest Davies Bouldin Score than other cluster. Therefore
 - "Cluster 3“has 21% customers. It belongs to the "Best Customers" segment which we saw earlier as they purchase recently (R=1), frequent buyers (F=1), and spent the most (M=1).
 ![kmeans 2](https://user-images.githubusercontent.com/75175081/127737861-0f62e50f-359b-4a74-9aa1-b59198d68570.png)
 
-
-
-
-
-
-
-
-
-
+# Recommendation
+- Recommendation for “Best Customers" segment: Focus on increasing customer purchases therefore it is necessary to form a cross/Up Selling Strategy.
+- Recommendation for “Loyal Customers" segment: The business team must optimize the budget campaign and the time campaign for this customer segment in order to maintain their loyalty and increase their value.
+- Recommendation for “Almost Lost" segment: This customer segment is very at risk for churn, so focus on activating customers and making repurchases by forming a Reactivation Strategy, Retention Strategy.
+- Recommendation for “Lost Cheap Customers" segment: This customer segment has churned, so the focus of the campaign is to reactivate the customer by forming a Reactivation strategy.
