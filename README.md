@@ -89,6 +89,9 @@ Revenue in November has highest amount that has  13,41% revenue from total reven
 - 1 is the highest value, and 4 is the lowest value.
 - A final RFM score (Overall Value) is calculated simply by combining individual RFM score numbers.
 
+![image](https://user-images.githubusercontent.com/75175081/127734694-d312d392-7994-4f7d-adfe-e55d01fdc5f4.png)
+![segmen rfm 1](https://user-images.githubusercontent.com/75175081/127734937-38b5fdbb-98c1-42e5-82c8-09da91023b33.png)
+
 
 
 
