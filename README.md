@@ -92,6 +92,14 @@ Revenue in November has highest amount that has  13,41% revenue from total reven
 ![image](https://user-images.githubusercontent.com/75175081/127734694-d312d392-7994-4f7d-adfe-e55d01fdc5f4.png)
 ![segmen rfm 1](https://user-images.githubusercontent.com/75175081/127734937-38b5fdbb-98c1-42e5-82c8-09da91023b33.png)
 
+# Modeling Data: K-Means Clustering
+- K-Means clustering algorithm is an unsupervised machine learning algorithm that uses multiple iterations to segment the unlabeled data points into K different clusters in a way such that each data point belongs to only a single group that has similar properties.
+- K-means gives the best result under the following conditions:
+- Data’s distribution is not skewed.
+- Data is standardised.
+- The data is highly skewed, therefore I will perform log transformations to reduce the skewness of each variable and I standardised the data.
+
+
 
 
 
