@@ -100,6 +100,7 @@ Revenue in November has highest amount that has  13,41% revenue from total reven
 - Data is standardised.
 - The data is highly skewed, therefore I will perform log transformations to reduce the skewness of each variable and I standardised the data.
 - Finding the optimal number of clusters
+
 ![finding k](https://user-images.githubusercontent.com/75175081/127736473-c222dcb1-6bcb-4746-bb11-b38b37f49eba.png)
 
 # Evaluating Model: K-Means Clustering
